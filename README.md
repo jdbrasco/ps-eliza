@@ -1,0 +1,2 @@
+# ps-eliza
+Learning Powershell
