@@ -9,7 +9,7 @@
 
     Description = 'SMAG Media - Eliza Sample Powershell'
 
-    FunctionsToExport = "Eliza-Run-PartyInvite"
+    FunctionsToExport = @( "Eliza-Run-PartyInvite", "Eliza-Check-PartyInvite", "Eliza-Generate-PartyInvites" )
 
     CmdletsToExport = '*'
 
